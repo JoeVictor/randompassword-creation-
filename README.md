@@ -21,7 +21,7 @@ that it's working as it should be.
 
 ## 📝 Link for the live-version of the project
  
-https://joevictor.github.io/challenge1/
+https://joevictor.github.io/randompassword-creation-/
 
 ![Project screenshot of the website](./Assets//Screenshot_20230114_072433.png)
 
