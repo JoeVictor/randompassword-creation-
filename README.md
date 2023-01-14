@@ -23,7 +23,7 @@ that it's working as it should be.
  
 https://joevictor.github.io/challenge1/
 
-![Project screenshot of the website](./Screenshot_20230114_072433.png)
+![Project screenshot of the website](./Assets//Screenshot_20230114_072433.png)
 
 
 
